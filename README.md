@@ -59,3 +59,7 @@ prompt_template = PROMPT_TECHNIQUES["Zero-Shot"]
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+### Goal
+Make questions harder or easier within the prompt
