@@ -40,6 +40,7 @@ langchain-core==0.3.6
 langchain-google-genai==2.0.0
 langchain-text-splitters==0.3.0
 langsmith==0.1.129
+loguru==0.6.0
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 mdurl==0.1.2
